@@ -1,5 +1,3 @@
-# Python-Database-API
-
 Welcome to the Python Database API!
 
 This is a program that allows a user to use a database of University of Bath employees. When the program is executed, the user has eight options:
